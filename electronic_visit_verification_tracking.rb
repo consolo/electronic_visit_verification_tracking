@@ -1,5 +1,10 @@
 gem 'activerecord', '~> 2.3'
 
+##
+# &copy; 2009 Andrew Coleman
+# Released under MIT license.
+# http://www.opensource.org/licenses/mit-license.php
+#
 module Consolo
   module ElectronicVisitVerification
     module ClassMethods
